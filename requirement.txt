@@ -1,0 +1,2 @@
+pip install PyDictionary
+pip install pyenchant
